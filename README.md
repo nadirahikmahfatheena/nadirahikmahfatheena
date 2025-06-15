@@ -11,7 +11,7 @@
 - ☕ Powered by coffee, pastel palettes, and curiosity
 
 
-## 💌 Socials:
+# 💌 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nadira.hf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nadirahf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadirahikmahfatheena@gmail.com) 
 
 # 🍰 Tech Stack:
