@@ -1,15 +1,4 @@
 <h2 align="center">Hi, I'm Nadira! 🌸</h2>
-<p align="center">
-  ✨ A creative coder | 🎓 Informatics Engineering Student <br>
-  🌈 Passionate about building beautiful and functional websites <br>
-  💡 Always learning, always growing
-</p>
-
-## ⭐ About Me:
-- 💻 Frontend & Backend web development enthusiast
-- 📚 Currently learning: **Go**, **React**, and clean UI design
-- ☕ Powered by coffee, pastel palettes, and curiosity
-
 
 ## 💌 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nadira.hf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nadirahf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadirahikmahfatheena@gmail.com) 
